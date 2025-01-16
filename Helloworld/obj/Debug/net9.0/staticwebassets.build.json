@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EZCiFxpQQb4hZBOT4L3o+KwoXmVJMAUbH1iS/F2IMNU=",
+  "Hash": "I8PxJ65SfFZSAvPmdmCJyqNrGjPpTe1by7ueQt41KGE=",
   "Source": "Helloworld",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "fpt0m30dmh",
-      "Integrity": "nWdoHzH9q1/K/4Z1W1LegJ7d8k9MiABMYmp68FPO3XU=",
+      "Fingerprint": "l7t02ynhg9",
+      "Integrity": "H7Jxz2rwbWCaoWG6MpiHyljCFTnOCdSoOMtRNNK2PM0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "k20z8zkwm6",
-      "Integrity": "5GBy9RnLhCK8FCEvERO25pqJKAVfZCWVtVqfuDBYtII=",
+      "Fingerprint": "ve3839dcmw",
+      "Integrity": "RzoX5zrNvF1tHiE+wEZ30K5D78kDQWcrgt24+okfaSw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\Helloworld.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "m7cri2hbin",
-      "Integrity": "kuBwbwICGc9IFGmi8Bj2tnZvu5n50gYkhBff6+sb/Bk=",
+      "Fingerprint": "85dih7znc1",
+      "Integrity": "DDCSdN8jpPJ7FExxNeZwI39wuRKBTB3rX2LNd17502g=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\webcil\\Helloworld.wasm"
@@ -6191,12 +6191,12 @@
       "OriginalItemSpec": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\esps21lpir-m7cri2hbin.gz",
+      "Identity": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\esps21lpir-85dih7znc1.gz",
       "SourceId": "Helloworld",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Helloworld#[.{fingerprint=m7cri2hbin}]!.wasm.gz",
+      "RelativePath": "_framework/Helloworld#[.{fingerprint=85dih7znc1}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6205,8 +6205,8 @@
       "RelatedAsset": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Helloworld.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zhi2two4td",
-      "Integrity": "Jwex9R41o1dQfykcP/AKdCfURFNrLhZAVCL8WlT4tNA=",
+      "Fingerprint": "zydftv28a9",
+      "Integrity": "hdLl3GXhPMyBTvtm4n2jv4h0JkzbRlKlrqm50R0N2ZQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Helloworld.wasm"
@@ -7136,7 +7136,7 @@
       "OriginalItemSpec": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Memory.wasm"
     },
     {
-      "Identity": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\jucmftmdfs-fpt0m30dmh.gz",
+      "Identity": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\jucmftmdfs-l7t02ynhg9.gz",
       "SourceId": "Helloworld",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\",
@@ -7150,8 +7150,8 @@
       "RelatedAsset": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mp02hk9vxh",
-      "Integrity": "GkHQNqY/OIQjEGTWm+3slWrDVzar8Qsq578aCPtXkp4=",
+      "Fingerprint": "d7qyz6x4t2",
+      "Integrity": "KaRYJLFfKWh03QfjYe6cqGIQuj+vKtIlO/313i4hqZg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7745,12 +7745,12 @@
       "OriginalItemSpec": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
-      "Identity": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\nzie62vxax-k20z8zkwm6.gz",
+      "Identity": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\nzie62vxax-ve3839dcmw.gz",
       "SourceId": "Helloworld",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Helloworld#[.{fingerprint=k20z8zkwm6}]!.pdb.gz",
+      "RelativePath": "_framework/Helloworld#[.{fingerprint=ve3839dcmw}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7759,8 +7759,8 @@
       "RelatedAsset": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Helloworld.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lhk340s26v",
-      "Integrity": "eU6tMQ5LWbM+yuE8WbzTo4iwtYUvQUToZ7qlaDFqjJU=",
+      "Fingerprint": "251v8ug9pc",
+      "Integrity": "hpcsNhupGN9Jf9pOVfw8OqTqhHOqsKZAYii0maw5HDc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Helloworld.pdb"
@@ -10705,11 +10705,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nWdoHzH9q1/K/4Z1W1LegJ7d8k9MiABMYmp68FPO3XU=\""
+          "Value": "\"H7Jxz2rwbWCaoWG6MpiHyljCFTnOCdSoOMtRNNK2PM0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
+          "Value": "Thu, 16 Jan 2025 20:35:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,13 +10719,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nWdoHzH9q1/K/4Z1W1LegJ7d8k9MiABMYmp68FPO3XU="
+          "Value": "sha256-H7Jxz2rwbWCaoWG6MpiHyljCFTnOCdSoOMtRNNK2PM0="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\jucmftmdfs-fpt0m30dmh.gz",
+      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\jucmftmdfs-l7t02ynhg9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10744,11 +10744,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GkHQNqY/OIQjEGTWm+3slWrDVzar8Qsq578aCPtXkp4=\""
+          "Value": "\"KaRYJLFfKWh03QfjYe6cqGIQuj+vKtIlO/313i4hqZg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:52:32 GMT"
+          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nWdoHzH9q1/K/4Z1W1LegJ7d8k9MiABMYmp68FPO3XU=\""
+          "Value": "W/\"H7Jxz2rwbWCaoWG6MpiHyljCFTnOCdSoOMtRNNK2PM0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nWdoHzH9q1/K/4Z1W1LegJ7d8k9MiABMYmp68FPO3XU="
+          "Value": "sha256-H7Jxz2rwbWCaoWG6MpiHyljCFTnOCdSoOMtRNNK2PM0="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\jucmftmdfs-fpt0m30dmh.gz",
+      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\jucmftmdfs-l7t02ynhg9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GkHQNqY/OIQjEGTWm+3slWrDVzar8Qsq578aCPtXkp4=\""
+          "Value": "\"KaRYJLFfKWh03QfjYe6cqGIQuj+vKtIlO/313i4hqZg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:52:32 GMT"
+          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GkHQNqY/OIQjEGTWm+3slWrDVzar8Qsq578aCPtXkp4="
+          "Value": "sha256-KaRYJLFfKWh03QfjYe6cqGIQuj+vKtIlO/313i4hqZg="
         }
       ]
     },
@@ -12749,168 +12749,7 @@
       ]
     },
     {
-      "Route": "_framework/Helloworld.k20z8zkwm6.pdb",
-      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Helloworld.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24012"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5GBy9RnLhCK8FCEvERO25pqJKAVfZCWVtVqfuDBYtII=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k20z8zkwm6"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Helloworld.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5GBy9RnLhCK8FCEvERO25pqJKAVfZCWVtVqfuDBYtII="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Helloworld.k20z8zkwm6.pdb",
-      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\nzie62vxax-k20z8zkwm6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000057218058"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17476"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eU6tMQ5LWbM+yuE8WbzTo4iwtYUvQUToZ7qlaDFqjJU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"5GBy9RnLhCK8FCEvERO25pqJKAVfZCWVtVqfuDBYtII=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k20z8zkwm6"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Helloworld.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5GBy9RnLhCK8FCEvERO25pqJKAVfZCWVtVqfuDBYtII="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Helloworld.k20z8zkwm6.pdb.gz",
-      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\nzie62vxax-k20z8zkwm6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17476"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eU6tMQ5LWbM+yuE8WbzTo4iwtYUvQUToZ7qlaDFqjJU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k20z8zkwm6"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Helloworld.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eU6tMQ5LWbM+yuE8WbzTo4iwtYUvQUToZ7qlaDFqjJU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Helloworld.m7cri2hbin.wasm",
+      "Route": "_framework/Helloworld.85dih7znc1.wasm",
       "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Helloworld.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12928,11 +12767,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kuBwbwICGc9IFGmi8Bj2tnZvu5n50gYkhBff6+sb/Bk=\""
+          "Value": "\"DDCSdN8jpPJ7FExxNeZwI39wuRKBTB3rX2LNd17502g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
+          "Value": "Thu, 16 Jan 2025 20:35:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12942,7 +12781,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m7cri2hbin"
+          "Value": "85dih7znc1"
         },
         {
           "Name": "label",
@@ -12950,18 +12789,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kuBwbwICGc9IFGmi8Bj2tnZvu5n50gYkhBff6+sb/Bk="
+          "Value": "sha256-DDCSdN8jpPJ7FExxNeZwI39wuRKBTB3rX2LNd17502g="
         }
       ]
     },
     {
-      "Route": "_framework/Helloworld.m7cri2hbin.wasm",
-      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\esps21lpir-m7cri2hbin.gz",
+      "Route": "_framework/Helloworld.85dih7znc1.wasm",
+      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\esps21lpir-85dih7znc1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000125533517"
+          "Quality": "0.000124766064"
         }
       ],
       "ResponseHeaders": [
@@ -12971,15 +12810,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7965"
+          "Value": "8014"
         },
         {
           "Name": "ETag",
-          "Value": "\"Jwex9R41o1dQfykcP/AKdCfURFNrLhZAVCL8WlT4tNA=\""
+          "Value": "\"hdLl3GXhPMyBTvtm4n2jv4h0JkzbRlKlrqm50R0N2ZQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
+          "Value": "Thu, 16 Jan 2025 20:35:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12999,13 +12838,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kuBwbwICGc9IFGmi8Bj2tnZvu5n50gYkhBff6+sb/Bk=\""
+          "Value": "W/\"DDCSdN8jpPJ7FExxNeZwI39wuRKBTB3rX2LNd17502g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m7cri2hbin"
+          "Value": "85dih7znc1"
         },
         {
           "Name": "label",
@@ -13013,13 +12852,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kuBwbwICGc9IFGmi8Bj2tnZvu5n50gYkhBff6+sb/Bk="
+          "Value": "sha256-DDCSdN8jpPJ7FExxNeZwI39wuRKBTB3rX2LNd17502g="
         }
       ]
     },
     {
-      "Route": "_framework/Helloworld.m7cri2hbin.wasm.gz",
-      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\esps21lpir-m7cri2hbin.gz",
+      "Route": "_framework/Helloworld.85dih7znc1.wasm.gz",
+      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\esps21lpir-85dih7znc1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13028,7 +12867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7965"
+          "Value": "8014"
         },
         {
           "Name": "Content-Type",
@@ -13036,11 +12875,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jwex9R41o1dQfykcP/AKdCfURFNrLhZAVCL8WlT4tNA=\""
+          "Value": "\"hdLl3GXhPMyBTvtm4n2jv4h0JkzbRlKlrqm50R0N2ZQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
+          "Value": "Thu, 16 Jan 2025 20:35:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13058,7 +12897,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m7cri2hbin"
+          "Value": "85dih7znc1"
         },
         {
           "Name": "label",
@@ -13066,7 +12905,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jwex9R41o1dQfykcP/AKdCfURFNrLhZAVCL8WlT4tNA="
+          "Value": "sha256-hdLl3GXhPMyBTvtm4n2jv4h0JkzbRlKlrqm50R0N2ZQ="
         }
       ]
     },
@@ -13081,7 +12920,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24012"
+          "Value": "24960"
         },
         {
           "Name": "Content-Type",
@@ -13089,11 +12928,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5GBy9RnLhCK8FCEvERO25pqJKAVfZCWVtVqfuDBYtII=\""
+          "Value": "\"RzoX5zrNvF1tHiE+wEZ30K5D78kDQWcrgt24+okfaSw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
+          "Value": "Thu, 16 Jan 2025 20:35:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13103,18 +12942,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5GBy9RnLhCK8FCEvERO25pqJKAVfZCWVtVqfuDBYtII="
+          "Value": "sha256-RzoX5zrNvF1tHiE+wEZ30K5D78kDQWcrgt24+okfaSw="
         }
       ]
     },
     {
       "Route": "_framework/Helloworld.pdb",
-      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\nzie62vxax-k20z8zkwm6.gz",
+      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\nzie62vxax-ve3839dcmw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000057218058"
+          "Quality": "0.000054401045"
         }
       ],
       "ResponseHeaders": [
@@ -13124,15 +12963,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17476"
+          "Value": "18381"
         },
         {
           "Name": "ETag",
-          "Value": "\"eU6tMQ5LWbM+yuE8WbzTo4iwtYUvQUToZ7qlaDFqjJU=\""
+          "Value": "\"hpcsNhupGN9Jf9pOVfw8OqTqhHOqsKZAYii0maw5HDc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
+          "Value": "Thu, 16 Jan 2025 20:35:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13152,19 +12991,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5GBy9RnLhCK8FCEvERO25pqJKAVfZCWVtVqfuDBYtII=\""
+          "Value": "W/\"RzoX5zrNvF1tHiE+wEZ30K5D78kDQWcrgt24+okfaSw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5GBy9RnLhCK8FCEvERO25pqJKAVfZCWVtVqfuDBYtII="
+          "Value": "sha256-RzoX5zrNvF1tHiE+wEZ30K5D78kDQWcrgt24+okfaSw="
         }
       ]
     },
     {
       "Route": "_framework/Helloworld.pdb.gz",
-      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\nzie62vxax-k20z8zkwm6.gz",
+      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\nzie62vxax-ve3839dcmw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13173,7 +13012,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17476"
+          "Value": "18381"
         },
         {
           "Name": "Content-Type",
@@ -13181,11 +13020,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eU6tMQ5LWbM+yuE8WbzTo4iwtYUvQUToZ7qlaDFqjJU=\""
+          "Value": "\"hpcsNhupGN9Jf9pOVfw8OqTqhHOqsKZAYii0maw5HDc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
+          "Value": "Thu, 16 Jan 2025 20:35:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13203,7 +13042,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eU6tMQ5LWbM+yuE8WbzTo4iwtYUvQUToZ7qlaDFqjJU="
+          "Value": "sha256-hpcsNhupGN9Jf9pOVfw8OqTqhHOqsKZAYii0maw5HDc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Helloworld.ve3839dcmw.pdb",
+      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Helloworld.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24960"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RzoX5zrNvF1tHiE+wEZ30K5D78kDQWcrgt24+okfaSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 20:35:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ve3839dcmw"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Helloworld.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RzoX5zrNvF1tHiE+wEZ30K5D78kDQWcrgt24+okfaSw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Helloworld.ve3839dcmw.pdb",
+      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\nzie62vxax-ve3839dcmw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000054401045"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18381"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hpcsNhupGN9Jf9pOVfw8OqTqhHOqsKZAYii0maw5HDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 20:35:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RzoX5zrNvF1tHiE+wEZ30K5D78kDQWcrgt24+okfaSw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ve3839dcmw"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Helloworld.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RzoX5zrNvF1tHiE+wEZ30K5D78kDQWcrgt24+okfaSw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Helloworld.ve3839dcmw.pdb.gz",
+      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\nzie62vxax-ve3839dcmw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hpcsNhupGN9Jf9pOVfw8OqTqhHOqsKZAYii0maw5HDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 20:35:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ve3839dcmw"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Helloworld.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hpcsNhupGN9Jf9pOVfw8OqTqhHOqsKZAYii0maw5HDc="
         }
       ]
     },
@@ -13226,11 +13226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kuBwbwICGc9IFGmi8Bj2tnZvu5n50gYkhBff6+sb/Bk=\""
+          "Value": "\"DDCSdN8jpPJ7FExxNeZwI39wuRKBTB3rX2LNd17502g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
+          "Value": "Thu, 16 Jan 2025 20:35:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13240,18 +13240,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kuBwbwICGc9IFGmi8Bj2tnZvu5n50gYkhBff6+sb/Bk="
+          "Value": "sha256-DDCSdN8jpPJ7FExxNeZwI39wuRKBTB3rX2LNd17502g="
         }
       ]
     },
     {
       "Route": "_framework/Helloworld.wasm",
-      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\esps21lpir-m7cri2hbin.gz",
+      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\esps21lpir-85dih7znc1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000125533517"
+          "Quality": "0.000124766064"
         }
       ],
       "ResponseHeaders": [
@@ -13261,15 +13261,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7965"
+          "Value": "8014"
         },
         {
           "Name": "ETag",
-          "Value": "\"Jwex9R41o1dQfykcP/AKdCfURFNrLhZAVCL8WlT4tNA=\""
+          "Value": "\"hdLl3GXhPMyBTvtm4n2jv4h0JkzbRlKlrqm50R0N2ZQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
+          "Value": "Thu, 16 Jan 2025 20:35:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13289,19 +13289,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kuBwbwICGc9IFGmi8Bj2tnZvu5n50gYkhBff6+sb/Bk=\""
+          "Value": "W/\"DDCSdN8jpPJ7FExxNeZwI39wuRKBTB3rX2LNd17502g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kuBwbwICGc9IFGmi8Bj2tnZvu5n50gYkhBff6+sb/Bk="
+          "Value": "sha256-DDCSdN8jpPJ7FExxNeZwI39wuRKBTB3rX2LNd17502g="
         }
       ]
     },
     {
       "Route": "_framework/Helloworld.wasm.gz",
-      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\esps21lpir-m7cri2hbin.gz",
+      "AssetFile": "C:\\Users\\abdi\\Documents\\projects\\BlazorNotes\\Helloworld\\obj\\Debug\\net9.0\\compressed\\esps21lpir-85dih7znc1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13310,7 +13310,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7965"
+          "Value": "8014"
         },
         {
           "Name": "Content-Type",
@@ -13318,11 +13318,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jwex9R41o1dQfykcP/AKdCfURFNrLhZAVCL8WlT4tNA=\""
+          "Value": "\"hdLl3GXhPMyBTvtm4n2jv4h0JkzbRlKlrqm50R0N2ZQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 23:53:43 GMT"
+          "Value": "Thu, 16 Jan 2025 20:35:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13340,7 +13340,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jwex9R41o1dQfykcP/AKdCfURFNrLhZAVCL8WlT4tNA="
+          "Value": "sha256-hdLl3GXhPMyBTvtm4n2jv4h0JkzbRlKlrqm50R0N2ZQ="
         }
       ]
     },

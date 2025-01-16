@@ -1075,10 +1075,10 @@ C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\obj\Debug\net9.0\Hellowo
 C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\obj\Debug\net9.0\refint\Helloworld.dll
 C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\obj\Debug\net9.0\Helloworld.pdb
 C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\obj\Debug\net9.0\ref\Helloworld.dll
-C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\bin\Debug\net9.0\wwwroot\_framework\Helloworld.k20z8zkwm6.pdb
-C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\bin\Debug\net9.0\wwwroot\_framework\Helloworld.m7cri2hbin.wasm
-C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\bin\Debug\net9.0\wwwroot\_framework\Helloworld.m7cri2hbin.wasm.gz
-C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\bin\Debug\net9.0\wwwroot\_framework\Helloworld.k20z8zkwm6.pdb.gz
-C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\obj\Debug\net9.0\compressed\esps21lpir-m7cri2hbin.gz
-C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\obj\Debug\net9.0\compressed\nzie62vxax-k20z8zkwm6.gz
-C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\obj\Debug\net9.0\compressed\jucmftmdfs-fpt0m30dmh.gz
+C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\bin\Debug\net9.0\wwwroot\_framework\Helloworld.ve3839dcmw.pdb
+C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\bin\Debug\net9.0\wwwroot\_framework\Helloworld.85dih7znc1.wasm
+C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\bin\Debug\net9.0\wwwroot\_framework\Helloworld.85dih7znc1.wasm.gz
+C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\bin\Debug\net9.0\wwwroot\_framework\Helloworld.ve3839dcmw.pdb.gz
+C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\obj\Debug\net9.0\compressed\esps21lpir-85dih7znc1.gz
+C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\obj\Debug\net9.0\compressed\nzie62vxax-ve3839dcmw.gz
+C:\Users\abdi\Documents\projects\BlazorNotes\Helloworld\obj\Debug\net9.0\compressed\jucmftmdfs-l7t02ynhg9.gz
